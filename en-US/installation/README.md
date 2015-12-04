@@ -5,7 +5,7 @@ name: Installation
 ## Prerequisites
 
 - Database (choose one of following):
-    - [MySQL](http://dev.mysql.com): Version >= 5.1
+    - [MySQL](http://dev.mysql.com): Version >= 5.1.0
     - [PostgreSQL](http://www.postgresql.org/)
     - or **NOTHING** with SQLite3 or TiDB (experimental)
 - [Git](http://git-scm.com/) (bash):
